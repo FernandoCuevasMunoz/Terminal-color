@@ -1,0 +1,24 @@
+{
+  "name": "terminal-color",
+  "version": "1.0.0",
+  "description": "Objetivo: practicar comandos de terminal, instalación de dependencias con npm, uso de console, y trabajo colaborativo en Git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonso-v98/Terminal-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alonso-v98/Terminal-color/issues"
+  },
+  "homepage": "https://github.com/alonso-v98/Terminal-color#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
