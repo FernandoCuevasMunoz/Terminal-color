@@ -16,6 +16,20 @@ function saludar(nombre) {
 // Prueba de función
 saludar("Equipo JS");
 
+// EQUIPO B
+
+function simularError() {
+    //mensaje de advertencia (amarillo)
+    console.warn(chalk.yellow('⚠️ Atención: Esto puede ponerse colorido.'));
+
+    //mensaje de error (rojo)
+    console.error(chalk.red('❌ Error simulado: Algo salió demasiado bien.'));
+
+    //mensaje final de recuperación (verde)
+    console.log(chalk.green('✅ Recuperación: Si al inicio no te funcionó recuerda que la práctica hacer al maestro.'));
+}
+    //Ejecución
+    simularError();
 // MostrarEstado
 function mostrarEstado() {
     // Inicio de programa

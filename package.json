@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonso-v98/Terminal-color.git"
 
     "type": "git",
     "url": "git+https://github.com/MonseMiranda1/Terminal-color.git"
@@ -16,6 +18,9 @@
   "license": "ISC",
   "type": "module",
   "bugs": {
+    "url": "https://github.com/alonso-v98/Terminal-color/issues"
+  },
+  "homepage": "https://github.com/alonso-v98/Terminal-color#readme",
     "url": "https://github.com/MonseMiranda1/Terminal-color/issues"
   },
   "homepage": "https://github.com/MonseMiranda1/Terminal-color#readme",
